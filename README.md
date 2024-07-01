@@ -28,6 +28,8 @@ Crea un archivo .env en la raíz del proyecto con el siguiente contenido:
     SMTP_HOST=smtp.dominio.com
     SMTP_PORT=587
 
+    PORT=3000
+
 ## Scripts Disponibles
 
 1. npm run build: Compila el proyecto TypeScript a JavaScript.
